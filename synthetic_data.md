@@ -43,8 +43,8 @@ A good primer on the topic can be found [here]( https://www.oreilly.com/library/
 
 From the health sector perspective, we recommend reading some of these articles as a starter: 
 
-- <a href="https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000082"</a>
-- <a href="https://www.sciencedirect.com/science/article/pii/S1574013723000138"</a>
-- <a href="https://www.nature.com/articles/s41551-021-00751-8"</a> 
-- <a href="https://arxiv.org/pdf/2101.08658.pdf"</a> 
-- <a href="https://www.nature.com/articles/s41746-020-00353-9%3C"</a>
+- <https://www.nature.com/articles/s41746-020-00353-9%3C>
+- <https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000082>
+- <https://www.sciencedirect.com/science/article/pii/S1574013723000138>
+- <https://www.nature.com/articles/s41551-021-00751-8> 
+- <https://arxiv.org/pdf/2101.08658.pdf> 
