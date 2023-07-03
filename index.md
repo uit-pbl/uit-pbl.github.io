@@ -2,8 +2,7 @@
 title: About
 ---
 
-# About
-"What is this about"
+# About this course
 
 # Project based learning
 

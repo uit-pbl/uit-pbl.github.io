@@ -1,9 +1,8 @@
----
-title: Themes
----
+# Thematic areas
 
-# Data driven applications
+## Data driven applications
 
 
-# Syntetic data and generative methods
+## Syntetic data and generative methods
+
 
