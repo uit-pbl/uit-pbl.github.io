@@ -1,3 +1,3 @@
-# uit-hdl.github.io
+# uit-pbl.github.io
 
-HDL website source: https://uit-hdl.github.io/
+UIT-PBL website source: https://uit-pbl.github.io/

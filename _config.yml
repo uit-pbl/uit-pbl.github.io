@@ -13,8 +13,8 @@ exclude:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
   
-title: Health Data Lab
-description: "Contact: larsab@cs.uit.no"
+title: Project based learning in computer science at UiT-Bodø
+description: "Contact: oystein.nytro@uit.no helge.fredriksen@uit.no"
 logo: UiT_Logo_Eng_2l_Bla_RGB.png
 
 theme: jekyll-theme-minimal
