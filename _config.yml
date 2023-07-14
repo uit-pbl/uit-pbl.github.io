@@ -12,6 +12,8 @@ exclude:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+
+logo: UiT_Segl_Eng_Bla_960px.png
   
 title: Project based learning in computer science at UiT-Bodø
 description: "Contact: oystein.nytro@uit.no"
